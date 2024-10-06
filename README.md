@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Frontend**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1Fozfg9td4nWlxjRsYS1bdkv0_z0sUdwh/view?usp=drive_link" target="_blank" style="color: #FFFF00;"> Resume </a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1jnvndN--fXjT5QBhVFZNsypAk28yNaWD/view?usp=drive_link" target="_blank" style="color: #FFFF00;"> Resume </a>
 
 ## 👨🏻‍🏫 What are my current activities?
 
