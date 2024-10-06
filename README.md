@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ankit Singhi</h1>
+<h1 align="center">Hi 👋, I'm Ankit Singh</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 <p align="center"> 
 <a href="https://www.linkedin.com/in/ankit-singh-7135a3259/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" width="40px"></a>
