@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Suniti</h1>
+<h1 align="center">Hi 👋, I'm Ankit Singhi</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 <p align="center"> 
-<a href="https://www.linkedin.com/in/suniti0020/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" width="40px"></a>
-<a href="https://twitter.com/Suniti_Panwar/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/2504/2504947.png" alt="Twitter" width="40px"></a>
-<a href="https://leetcode.com/suniti_0020/" target="blank"><img src="https://dhyey6602.github.io/assets/lc-icon.png" alt="LeetCode" width="35px" ></a>
+<a href="https://www.linkedin.com/in/ankit-singh-7135a3259/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" width="40px"></a>
+<a href="https://x.com/ankitsikarwar01" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/2504/2504947.png" alt="Twitter" width="40px"></a>
+<a href="https://leetcode.com/u/f281IUSYYy/" target="blank"><img src="https://dhyey6602.github.io/assets/lc-icon.png" alt="LeetCode" width="35px" ></a>
           
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suniti-0020&label=Profile%20views&color=0e75b6&style=flat" alt="suniti-0020" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-sikarwar-001&label=Profile%20views&color=0e75b6&style=flat" alt="suniti-0020" /> </p>
 
 - 🌱 I’m currently learning **AI and ML**
 
 - 💬 Ask me about **MERN stack**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1hh4dPOaAyx6WWV06Kv1LIPKA4TlVFkN2/view?usp=drivesdk" target="_blank" style="color: #FFFF00;"> Resume </a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1Fozfg9td4nWlxjRsYS1bdkv0_z0sUdwh/view?usp=drive_link" target="_blank" style="color: #FFFF00;"> Resume </a>
 
 ## 👨🏻‍🏫 What are my current activities?
 
@@ -23,13 +23,13 @@
 
 
 <p width="100%" align="center">
-          <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=suniti-0020&show_icons=true&locale=en" alt="suniti-0020" />
-          <img align="center"  width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=suniti-0020" />
+          <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=ankit-sikarwar-001&show_icons=true&locale=en" alt="ankit-sikarwar-001" />
+          <img align="center"  width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-sikarwar-001" />
 </p>
 
 ## 🏆Github Profile Trophies
 <p align="center">
-          <img src="https://github-profile-trophy.vercel.app/?username=suniti-0020&theme=juicyfresh&column=7&margin-w=15&no-frame=true&no-bg=true" />
+          <img src="https://github-profile-trophy.vercel.app/?username=ankit-sikarwar-001&theme=juicyfresh&column=7&margin-w=15&no-frame=true&no-bg=true" />
 </p>
 
 ## Languages and Tools
