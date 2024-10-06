@@ -8,9 +8,9 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-sikarwar-001&label=Profile%20views&color=0e75b6&style=flat" alt="suniti-0020" /> </p>
 
-- 🌱 I’m currently learning **AI and ML**
+- 🌱 I’m currently learning **Full Stack**
 
-- 💬 Ask me about **MERN stack**
+- 💬 Ask me about **Frontend**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1Fozfg9td4nWlxjRsYS1bdkv0_z0sUdwh/view?usp=drive_link" target="_blank" style="color: #FFFF00;"> Resume </a>
 
