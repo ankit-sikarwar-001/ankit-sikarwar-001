@@ -17,7 +17,6 @@
 ## 👨🏻‍🏫 What are my current activities?
 
 - The art of coding weaves a tapestry of passion and logic.
-- Strong interest in Data Science and AI ML.
 - Actively engaged in hackathons and Open Source.
 - Building an algorithm that optimizes my happiness.
 
