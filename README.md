@@ -6,7 +6,7 @@
 <a href="https://leetcode.com/u/f281IUSYYy/" target="blank"><img src="https://dhyey6602.github.io/assets/lc-icon.png" alt="LeetCode" width="35px" ></a>
           
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-sikarwar-001&label=Profile%20views&color=0e75b6&style=flat" alt="suniti-0020" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-sikarwar-001&label=Profile%200views&color=0e75b6&style=flat" alt="ankit-sikarwar-001" /> </p>
 
 - 🌱 I’m currently learning **Full Stack**
 
