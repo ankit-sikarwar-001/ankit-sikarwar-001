@@ -65,7 +65,7 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo.png" alt="java" width="40" height="60"/>
   <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" alt="nodejs" width="70" height="40"/>
-  <img src="https://seeklogo.com/images/M/mongodb-logo-655F7D542D-seeklogo.com.png" alt="mongodb" width="40" height="40"/>
+  <img src="https://w7.pngwing.com/pngs/429/921/png-transparent-mongodb-plain-wordmark-logo-icon.png" alt="mongodb" width="40" height="40"/>
 </p>
 
 ---
@@ -74,8 +74,8 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ankit-singh-7135a3259/)  
 - 🐦 [Twitter](https://x.com/ankitsikarwar01)  
-- 📧 Email: ankit@example.com *(replace with your actual email if you want)*  
-- 💻 [Portfolio/GitHub Pages – Coming Soon...]
+- 📧 Email: ankitsikarwar681@gmail.com *(replace with your actual email if you want)*  
+- 💻 [PORTFOLIO](https://ankitxwarportfolio.netlify.app/)
 
 ---
 
