@@ -74,7 +74,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ankit-singh-7135a3259/)  
 - 🐦 [Twitter](https://x.com/ankitsikarwar01)  
-- 📧 Email: ankitsikarwar681@gmail.com *(replace with your actual email if you want)*  
+- 📧 Email: ankitsikarwar681@gmail.com 
 - 💻 [PORTFOLIO](https://ankitxwarportfolio.netlify.app/)
 
 ---
