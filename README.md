@@ -79,4 +79,4 @@
 
 ---
 
-*Crafted with ❤️ by Ankit Singh*
+*Crafted with 💪 by Ankit Singh*
