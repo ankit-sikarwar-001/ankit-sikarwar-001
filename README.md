@@ -13,7 +13,7 @@
   <a href="https://x.com/ankitsikarwar01" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/f281IUSYYy](https://leetcode.com/u/ankitxwar/" target="_blank">
+  <a href="https://leetcode.com/u/ankitxwar/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
