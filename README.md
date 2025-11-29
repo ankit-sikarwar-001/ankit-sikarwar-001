@@ -4,7 +4,7 @@
 
 <!-- Social Icons -->
 <p align="center">
-  <a href="https://ankitxwar.com" target="_blank">
+  <a href="https://ankitxwar.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00FF99?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
   <a href="https://www.linkedin.com/in/ankit-singh-7135a3259/" target="_blank">
@@ -13,7 +13,7 @@
   <a href="https://x.com/ankitsikarwar01" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/f281IUSYYy/" target="_blank">
+  <a href="[https://leetcode.com/u/f281IUSYYy](https://leetcode.com/u/ankitxwar/)/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
