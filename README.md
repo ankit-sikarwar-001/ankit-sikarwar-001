@@ -13,7 +13,7 @@
   <a href="https://x.com/ankitsikarwar01" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="[https://leetcode.com/u/f281IUSYYy](https://leetcode.com/u/ankitxwar/)/" target="_blank">
+  <a href="https://leetcode.com/u/f281IUSYYy](https://leetcode.com/u/ankitxwar/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
@@ -74,7 +74,7 @@
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-sikarwar-001&layout=compact&theme=radical" />
+  <img src="https://raw.githubusercontent.com/ankit-sikarwar-001/ankit-sikarwar-001/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
