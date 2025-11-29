@@ -1,112 +1,123 @@
-<h1 align="center">👋 Hi, I'm Ankit Singh (ankitxwar)</h1>
-<h3 align="center">Full-Stack MERN Developer | Freelancer | Final-Year CSE Student</h3>
+<!-- Banner -->
+<h1 align="center">✨ Ankit Singh — <code>ankitxwar</code> ✨</h1>
+<h3 align="center">Full-Stack MERN Developer • Freelancer • SIH Finalist • Hackathon Winner</h3>
 
-<p align="center"> 
+<!-- Social Icons -->
+<p align="center">
+  <a href="https://ankitxwar.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00FF99?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
   <a href="https://www.linkedin.com/in/ankit-singh-7135a3259/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" width="40px">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/ankitsikarwar01" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504947.png" alt="Twitter" width="40px">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/f281IUSYYy/" target="_blank">
-    <img src="https://dhyey6602.github.io/assets/lc-icon.png" alt="LeetCode" width="35px">
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ankit-sikarwar-001&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ankit-sikarwar-001&label=Profile+Views&color=brightgreen&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🧑‍💻 **About Me**
 
-- 💻 Full-Stack MERN Developer  
-- 🥇 **Inter-University Hackathon — 1st Rank (2025)**  
-- 🏆 **SIH 2023 Finalist** (Coded 36+ hours at SKIT Jaipur)  
-- 👨‍💻 **Techitute — Full-Stack Developer Intern**  
-- 🌐 Freelancer delivering real-world production projects  
-- 🎤 Public Speaker & Mentor for junior developers  
-- 🎯 Final-Year CSE Student from Delhi NCR  
-- 🔥 Passionate about building scalable apps & solving problems with clean architecture  
-
----
-
-## 🔭 Current Projects
-
-- 🔮 **Mystic Tarot** — AI-powered tarot prediction platform  
-- 🗺️ **Namaste Bharat** — Tourism + location intelligence app  
-- 🐾 **PMS (Pet Management System)** — MERN-based management tool  
-- 🧠 **Johar Jharkhand** — AI + NLP-based chatbot system  
-- 💼 Multiple freelance MERN applications  
+🔹 Full-Stack MERN Developer (React, Node, Express, MongoDB)  
+🔹 **Inter-University Hackathon – 1st Rank (2025)**  
+🔹 **Smart India Hackathon 2023 Finalist**  
+🔹 **Full-Stack Intern @ Techitute**  
+🔹 Freelancer — delivered 5+ real-world production projects  
+🔹 Public Speaker & Mentor  
+🔹 Final-Year CSE Student — Delhi NCR  
+🔹 Passionate about clean code, scalable systems & AI-driven tech  
 
 ---
 
-## 🌱 Currently Learning
+# 🚀 **Current Work**
 
-- Advanced Backend: JWT, Auth, Web Security  
-- Cloud Deployment (Vercel, Render, Railway)  
-- Scalable API Design Patterns  
-- Performance & Optimization in Node.js  
+- 🔮 *Mystic Tarot* — AI-based Tarot Prediction  
+- 🗺️ *Namaste Bharat* — Tourism + Heritage + AI guide  
+- 🧠 *Johar Jharkhand* — NLP chatbot + OpenAI  
+- 🐾 *PMS* — Pet Management MERN System  
+- 💼 Multiple freelance MERN apps  
 
 ---
 
-## 🛠️ Tech Stack & Tools
+# 🛠️ **Tech Stack**
 
-### **Frontend**
-<p>
-  <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="40" />
-  <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="40" />
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="40" />
-  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="40" alt="Next.js"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
-  <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" width="40" />
+### 🚀 **Frontend**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,bootstrap" />
 </p>
 
-### **Backend**
-<p>
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" width="55" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="90" />
-  <img src="https://w7.pngwing.com/pngs/429/921/png-transparent-mongodb-plain-wordmark-logo-icon.png" width="45" />
+### 🧩 **Backend & Database**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman" />
 </p>
 
-### **Tools**
-<p>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
-  <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="40" />
-  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40" />
-  <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Emblem.jpg" width="40" />
-  <img src="https://seeklogo.com/images/V/vercel-logo-3031D5D3A7-seeklogo.com.png" width="40" />
-  <img src="https://railway.app/brand/logo-black.png" width="40" />
+### 🛠️ **Tools & Platforms**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,railway" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 **GitHub Analytics**
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ankit-sikarwar-001&show_icons=true&theme=react" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-sikarwar-001&theme=react" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ankit-sikarwar-001&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-sikarwar-001&theme=radical" />
 </p>
-
----
-
-## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ankit-sikarwar-001&theme=matrix&column=7&margin-w=10&no-bg=true&no-frame=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-sikarwar-001&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 🌍 Connect With Me
+# 🏆 **GitHub Achievements**
 
-- 💼 LinkedIn — https://www.linkedin.com/in/ankit-singh-7135a3259/  
-- 🐦 Twitter — https://x.com/ankitsikarwar01  
-- 💻 Portfolio — https://ankitxwar.com  
-- 📧 Email — ankitsikarwar681@gmail.com  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ankit-sikarwar-001&theme=matrix&column=7&margin-w=15&no-frame=true" />
+</p>
 
 ---
 
-<h4 align="center">✨ Crafted with Passion & Code by Ankit Singh ✨</h4>
+# 🐍 **Contribution Snake Animation**
+
+<p align="center">
+  <img src="https://github.com/ankit-sikarwar-001/ankit-sikarwar-001/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+*(If snake doesn’t appear, I’ll help you set it up properly.)*
+
+---
+
+# 🏆 **Major Achievements**
+
+- 🥇 **1st Rank – Inter-University Hackathon 2025**  
+- 🏆 **Smart India Hackathon 2023 Finalist**  
+- 👨‍💻 **5+ Freelance MERN Projects Delivered**  
+- 🧑‍🏫 Public Speaker & Mentor  
+- 💼 Full-Stack Intern @ Techitute  
+
+---
+
+# 📬 **Let's Connect**
+
+<p align="center">
+  <a href="https://ankitxwar.com">
+    <img src="https://img.shields.io/badge/Portfolio-00FF99?style=for-the-badge&logo=webflow&logoColor=black" />
+  </a>
+  <a href="mailto:ankitsikarwar681@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">✨ Built with Passion & Code by Ankit Singh ✨</h3>
