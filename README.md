@@ -89,8 +89,6 @@
   <img src="https://github.com/ankit-sikarwar-001/ankit-sikarwar-001/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
-*(If snake doesn’t appear, I’ll help you set it up properly.)*
-
 ---
 
 # 🏆 **Major Achievements**
