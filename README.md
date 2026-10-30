@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">✨ Ankit Singh — <code>ankitxwar</code> ✨</h1>
-<h3 align="center">Full-Stack MERN Developer • Freelancer • SIH Finalist • Hackathon Winner</h3>
+<h3 align="center">Business Analyst • Full-Stack MERN Developer • Freelancer • SIH Finalist • Hackathon Winner</h3>
 
 <!-- Social Icons -->
 <p align="center">
